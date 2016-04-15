@@ -11,7 +11,7 @@ This is too easy! Will it get harder?
 
 I found a bug, who should I report this too?
 
-   -Bugs help us developers stop problems occurring and sometimes even spark new creations! If you find one, make sure to tell us on the [issues](https://github.com/Royalkiller2222/royalkiller2222.github.io/issues) page so we can have offer the best game experience we possiably can!
+   -Bugs help us developers stop problems occurring and sometimes even spark new creations! If you find one, make sure to tell us on the [issues](https://github.com/BreakMeso/breakmeso.github.io/issues) page so we can have offer the best game experience we possiably can!
 
 Who is Iris?
   
