@@ -30,7 +30,7 @@ Our goal is to showcase the potential HTML5 Canvas element while making a fun an
 
 Special thanks to
  
-Team Manager/Main Dev - [Carter Hembree](https://github.com/Royalkiller2222/
+Team Manager/Main Dev - [Carter Hembree](https://github.com/Royalkiller2222/)
 
 Level Design - Noah Shoup
 
